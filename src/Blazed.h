@@ -1,7 +1,7 @@
 #ifndef _BLAZED_H
 #define _BLAZED_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Blazed10[];
